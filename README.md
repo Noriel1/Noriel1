@@ -1,4 +1,4 @@
-## Hi there 👋
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind,cs,robloxstudio)](https://skillicons.dev)
 <!--
