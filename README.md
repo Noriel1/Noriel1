@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind,cs,robloxstudio)](https://skillicons.dev)
 <!--
 **Noriel1/Noriel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
